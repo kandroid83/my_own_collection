@@ -32,3 +32,4 @@ Single task playbook `single_task.yml` выполнен дважды. Второ
 ### 6. Запуск Playbook (Шаг 16)
 Playbook с ролью из установленной коллекции выполнен. Первый запуск: `changed=1`. Второй запуск: `changed=0` (идемпотентность подтверждена).
 ![Запуск Playbook](./my_own6.png)
+
